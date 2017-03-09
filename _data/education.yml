@@ -1,14 +1,19 @@
--   qualification: Computer Programming
-    school: Some School
-    period: 2003
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+-   qualification: Front-end Engineer
+    school: Alura Cursos Online
+    period: 2016 - atual
+    description: Mais de 30 cursos concluídos até o momento, dentre eles JavaScript (ES6, Expressões regulares, Jasmine), Gulp, Sass, Web Performance, Angular 1 e cursos na carreira de UX. Na fila estão os cursos para desenvolvedor MEAN e React.
 
--   qualification: A-Level Computing
-    school: Some School
-    period: 2003
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+-   qualification: Front-end Development
+    school: Free Code Camp
+    period: 2015
+    description: Compreende do básico (HTML5, CSS, JavaScript, JQuery) até Orientação de Ojetos, Programação Funcional, Algoritmos, APIs JSON e Ajax.
 
--   qualification: A-Level Maths
-    school: Some School
-    period: 2003
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+-   qualification: Arquitetura de Informação
+    school: Instituto Faber-Ludens
+    period: 2012
+    description: Inventário e Gerenciamento de Conteúdo, Card-Sorting, Modelos de navegação, Fluxogramas, Wireframes e outros entregáveis.
+
+-   qualification: Bacharelado em Design Digital
+    school: Centro Universitário Ibero-Americano
+    period: 2003 - 2006
+    description: Disciplinas práticas e teóricas abrangendo Metodologia Visual, Ergonomia, Teoria da Comunicação, Teoria da Cor até Lógica de Programação.
