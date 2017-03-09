@@ -1,7 +1,7 @@
-// @name Layout
-// @description All layout settings and styles
+/* @name Layout*/
+/* @description All layout settings and styles*/
 
-// Default spacing unit
+/* Default spacing unit*/
 $spacer: 20px;
 
 .container {
@@ -14,17 +14,18 @@ $spacer: 20px;
     text-transform: uppercase;
     letter-spacing: 4px;
     margin-bottom: ($spacer * 2);
-    text-align: center;
+    padding-bottom: ($spacer * 0.5);
     position: relative;
+    border-bottom: 1px solid #edefee;
 
-    &:after {
-        content: '';
-        position: absolute;
-        bottom: -5px;
-        left: 50%;
-        margin-left: -25px;
-        width: 50px;
-        height: 1px;
-        background: #222;
-    }
+    /* &:after {*/
+    /*     content: '';*/
+    /*     position: absolute;*/
+    /*     bottom: -5px;*/
+    /*     left: 50%;*/
+    /*     margin-left: -25px;*/
+    /*     width: 50px;*/
+    /*     height: 1px;*/
+    /*     background: #222;*/
+    /* }*/
 }
